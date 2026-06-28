@@ -1,4 +1,4 @@
-# 
+# Ultimate GitKraken plugins for Mac OS | Official GitKraken plugins for PC Windows. Featuring bracket-matching and database-diagrams — optimized for maximum performance on every platform.
 
 
 
